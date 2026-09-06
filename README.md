@@ -15,6 +15,7 @@ Este proyecto corresponde a la práctica de Git y GitHub de la semana 04.
 - HTML5
 - Git
 - GitHub
+- Aprendiendo mas
 
 ## Instalación
 
