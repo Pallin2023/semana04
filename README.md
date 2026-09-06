@@ -31,7 +31,7 @@ Este proyecto corresponde a la práctica de Git y GitHub de la semana 04.
 
 ```html
 <h1>Bienvenido a mi página web</h1>
-
+```
 ## Formatos de texto
 
 Este proyecto utiliza **HTML5** para crear las páginas web.
@@ -39,3 +39,5 @@ Este proyecto utiliza **HTML5** para crear las páginas web.
 Estamos aprendiendo *Markdown* para documentar nuestros proyectos.
 
 Esta tecnología ~~ya no se utilizará~~ será reemplazada.
+
+## Estoy aprendiendo
