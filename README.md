@@ -41,3 +41,6 @@ Estamos aprendiendo *Markdown* para documentar nuestros proyectos.
 Esta tecnología ~~ya no se utilizará~~ será reemplazada.
 
 ## Estoy aprendiendo
+
+# Imagen del Proyecto
+![Logo del Proyecto](img01.jpg)
