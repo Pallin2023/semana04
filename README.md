@@ -44,3 +44,6 @@ Esta tecnología ~~ya no se utilizará~~ será reemplazada.
 
 # Imagen del Proyecto
 ![Logo del Proyecto](img01.jpg)
+
+## Cita
+> Los archivos es parte fundamental de la programacion...
